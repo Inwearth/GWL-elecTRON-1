@@ -1,5 +1,5 @@
 # GWL-elecTRON
-A profile gallery for all members of Guild elecTRON! Made using basic HTML and CSS.
+A profile gallery for all members of Guild elecTRON!
 
 ## Contributing Guide
 
